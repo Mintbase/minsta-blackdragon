@@ -32,7 +32,7 @@ export const HomePage = () => {
     <main className="flex flex-col items-center justify-center h-screen">
       <p className="text-mainText">Nothing here yet 👀</p>
       <button
-        className="gradientButton w-auto text-primaryBtnText rounded px-8 py-2 mt-4"
+        className="gradientButton w-auto text-white rounded px-8 py-2 mt-4"
         onClick={handleLetsGoBtn}
       >
         Let&apos;s Go
